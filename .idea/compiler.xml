@@ -9,5 +9,8 @@
         <module name="Muntyan_exam-project" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="muntyanProj" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
