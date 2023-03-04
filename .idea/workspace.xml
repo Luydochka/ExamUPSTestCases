@@ -5,14 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af7f5b69-2e52-4230-a093-bdad99ee25a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/baseTest/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homePage/TC1_HomePageInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/libs/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/CommonActionsWithElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ParentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/elements/HeaderElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/qalight.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/qalight.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/baseTest/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/baseTest/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/homePage/TC1_HomePageInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homePage/TC1_HomePageInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/locators.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/locators.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/baseTest/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/java/baseTest/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/homePage/TC1_HomePageInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/java/homePage/TC1_HomePageInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/locators.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/locators.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,14 +64,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/QA Light/workSpace/Muntyan_exam-project/Muntyan_exam-project/src",
-    "project.structure.last.edited": "Project",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/QA Light/workSpace/Muntyan_exam-project/Muntyan_exam-project/src/main/java/libs",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\QA Light\workSpace\Muntyan_exam-project\Muntyan_exam-project\src\main\java\libs" />
       <recent name="C:\QA Light\workSpace\Muntyan_exam-project\Muntyan_exam-project\src" />
       <recent name="C:\QA Light\workSpace\Muntyan_exam-project\Muntyan_exam-project" />
     </key>
@@ -141,6 +149,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="LOCATORS AND tcS" />
-    <option name="LAST_COMMIT_MESSAGE" value="LOCATORS AND tcS" />
+    <MESSAGE value="Base Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Base Test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

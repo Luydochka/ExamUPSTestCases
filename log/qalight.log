@@ -1,1 +1,293 @@
 2023-26-02 21:21:30   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 12:20:21   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 13:59:47   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:00:36   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:02:16   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:04:21   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:07:20   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:08:57   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:10:35   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:10:56   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:14:54   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:17:30   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:18:20   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:23:22   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:25:07   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:32:57   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:42:51   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:48:54   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:52:15   INFO [homePage.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 14:52:23   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 14:52:24   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:53:30   INFO [homePage.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 14:53:40   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 14:53:40   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:40   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:40   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:40   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:41   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:42   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:44   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:45   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:46   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:47   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:48   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:50   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:51   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:53:52   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:55:03   INFO [homePage.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 14:55:11   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 14:55:11   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:55:12   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:55:50   INFO [homePage.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 14:55:59   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 14:56:09   INFO [pages.elements.HeaderElements] : Element is not displayed
+2023-04-03 14:56:10   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:56:24   INFO [homePage.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 14:56:33   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 14:56:34   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:56:34   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:56:55   INFO [homePage.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 14:57:03   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 14:57:13   INFO [pages.elements.HeaderElements] : Element is not displayed
+2023-04-03 14:57:14   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 14:57:34   INFO [homePage.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 14:59:44   INFO [homePage.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 14:59:54   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-04-03 14:59:54   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 14:59:55   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 14:59:56   INFO [homePage.TC1_HomePageInfo] : Browser was closed

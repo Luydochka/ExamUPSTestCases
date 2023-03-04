@@ -1,9 +1,16 @@
 #HomePage
 
+___Header Elements ___
 homePage.link.Shipping = .//a[@id='mainNavDropdown1']
 homePage.link.Tracking = .//a[@id='mainNavDropdown2']
 homePage.link.BusinessSolutions = .//a[@id='mainNavDropdown3']
 homePage.link.Support = .//a[@id='mainNavDropdown4']
+homePage.link.AboutUPS = .//a[@class= 'OneLinkKeepLinks ups-link']
+homePage.link.Location = .//a[@class= 'ups-link' and @href = 'https://www.ups.com/dropoff?loc=en_CA']
+homePage.link.Languages = .//a[@class= 'ups-link dropdown-toggle' ]
+
+____End of Header Elements_____
+
 homePage.link.Track = .//a[@class='nav-link active']
 homePage.link.Quote = .//a[@class='nav-link ups-analytics ' and @href = 'https://wwwapps.ups.com/calTimeCost?loc=en_CA']
 homePage.link.Ship = .//a[@class='nav-link ups-analytics ' and @href = 'https://www.ups.com/ship?loc=en_CA']
@@ -11,9 +18,6 @@ homePage.link.Billing = .//a[@class='nav-link ups-analytics ' and @href = '/ca/e
 homePage.input.TrackingNumver = .//input[@id = 'ups-track--qs']
 homePage.button.Track = .//button[@id = 'stApp_widgetTrkNumBtn']
 homePage.button.Help = .//span[@id = 'stApp_widgetHelpLbl']
-homePage.link.AboutUPS = .//a[@class= 'OneLinkKeepLinks ups-link']
-homePage.link.Location = .//a[@class= 'ups-link' and @href = 'https://www.ups.com/dropoff?loc=en_CA']
-homePage.link.Languages = .//a[@class= 'ups-link dropdown-toggle' ]
 homePage.button.Search = .//button[@id= 'ups-search-toggle' ]
 homePage.span.LoginSignup = .//span[@class= 'icon ups-icon-user' ]
 homePage.link.GetHelp = .//a[@class = 'widget-footer-link ups-link']
