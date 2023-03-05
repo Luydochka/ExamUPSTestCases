@@ -13,6 +13,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.safari.SafariDriver;
 import pages.HomePage;
+import pages.LocationPage;
 import pages.elements.HeaderElements;
 
 import java.time.Duration;
@@ -22,15 +23,17 @@ public class BaseTest {
     Logger logger = Logger.getLogger(getClass());
     protected HomePage homePage;
     protected HeaderElements headerElements;
+    protected LocationPage locationPage;
 
     @Before
     public void setUp(){
-        logger.info("-----" + testName.getMethodName() + "is stared ------");
+        logger.info("-----" + testName.getMethodName() + " test is stared ------");
         webDriver = initDriver();
         webDriver.manage().window().maximize();
         webDriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
         homePage = new HomePage(webDriver);
         headerElements = new HeaderElements(webDriver);
+        locationPage = new LocationPage(webDriver);
     }
 
 

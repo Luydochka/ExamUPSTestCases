@@ -25,6 +25,11 @@ ________________________________________________________________________________
 #FindLocationsPage
 
 FindLocationsPage.input.Search = .//input[@id ='txtQuery']
+FindLocationsPage.input.Find = .//input[@type='submit']
+FindLocationsPage.input.FindResultOptions =.//*[text() = 'Moncton, Westmorland, NB']
+FindLocationsPage.input.FindResultStores =.//*[@class = 'mappedResultList']
+
+
 
 _____________________________________________________________________________________________________________________________________
 #LogInPage

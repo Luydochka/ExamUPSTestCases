@@ -34,16 +34,15 @@ STR:
 
 EX:
 1. Track is not available
-2. About UPS is available
-3. Locations is available
-4. Language is available
-5. Search Button is available
-6. Login / sign up is available
-7. Quote is not available
-8. Ship is not available
-9. Billing is not available
-10.Search input is available
+3. Quote is not available
 
+STR:
+3. Enter 'Moncton Inti input Near
+4.Hit 'Find'
+5.Click on 'Moncton, Westmorland, NB'
+
+EX:
+List of locations disaplyed
 __________________________________________________________________________________________________
 
 #3 Sign Up function

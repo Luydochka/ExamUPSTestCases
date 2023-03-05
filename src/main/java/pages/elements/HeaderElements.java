@@ -16,59 +16,60 @@ public class HeaderElements extends CommonActionsWithElements {
     }
 
     @FindBy(xpath = ".//a[@id='mainNavDropdown1']")
-    private WebElement linkShipping;
+    public WebElement linkShipping;
     @FindBy(xpath = ".//a[@id='mainNavDropdown2']")
-    private WebElement linkTracking;
+    public WebElement linkTracking;
     @FindBy (xpath = ".//a[@id='mainNavDropdown3']")
-    private WebElement linkBusinessSolutions;
+    public WebElement linkBusinessSolutions;
     @FindBy (xpath = ".//a[@id='mainNavDropdown4']")
-    private WebElement linkSupport;
+    public WebElement linkSupport;
     @FindBy (xpath = ".//a[@class= 'OneLinkKeepLinks ups-link']")
-    private WebElement linkAboutUPS;
+    public WebElement linkAboutUPS;
     @FindBy (xpath = ".//a[@class= 'ups-link' and @href = 'https://www.ups.com/dropoff?loc=en_CA']")
-    private WebElement linkLocation;
+    public WebElement linkLocation;
     @FindBy (xpath = ".//a[@class= 'ups-link dropdown-toggle' ]")
-    private WebElement linkLanuages;
+    public WebElement linkLanuages;
 
 
-    public HeaderElements  isLinkShippinDisaplyed (){
+
+    public WebDriver  isLinkShippinDisaplyed (){
       Assert.assertTrue( getElementName(linkShipping) + " is not disaplyed ", isElementDisplayed(linkShipping));
-       return this;
+       return webDriver;
     }
 
-    public HeaderElements  isLinkTrackingDisaplyed (){
+    public WebDriver  isLinkTrackingDisaplyed (){
         Assert.assertTrue( getElementName(linkTracking) + " is not disaplyed ", isElementDisplayed(linkTracking));
-        return this;
+        return webDriver;
     }
 
-    public HeaderElements  isLinkBusinessSolutionsDisaplyed (){
+    public WebDriver  isLinkBusinessSolutionsDisaplyed (){
         Assert.assertTrue( getElementName(linkBusinessSolutions) + " is not disaplyed ", isElementDisplayed(linkBusinessSolutions));
-        return this;
+        return webDriver;
     }
 
-    public HeaderElements  isLinkSupportDisaplyed (){
+    public WebDriver  isLinkSupportDisaplyed (){
         Assert.assertTrue( getElementName(linkSupport) + " is not disaplyed ", isElementDisplayed(linkSupport));
-        return this;
+        return webDriver;
     }
 
-    public HeaderElements  isLinkAboutUPSDisaplyed (){
+    public WebDriver  isLinkAboutUPSDisaplyed (){
         Assert.assertTrue( getElementName(linkAboutUPS) + " is not disaplyed ", isElementDisplayed(linkAboutUPS));
-        return this;
+        return webDriver;
     }
 
-    public HeaderElements  isLinkLocationDisaplyed (){
+    public WebDriver  isLinkLocationDisaplyed (){
         Assert.assertTrue( getElementName(linkLocation) + " is not disaplyed ", isElementDisplayed(linkLocation));
-        return this;
+        return webDriver;
     }
 
-    public HeaderElements  isLinkLanuagesDisaplyed (){
+    public WebDriver  isLinkLanuagesDisaplyed (){
         Assert.assertTrue( getElementName(linkLanuages) + " is not disaplyed ", isElementDisplayed(linkLanuages));
-        return this;
+        return webDriver;
     }
 
 
 
-    public HomePage areHeaderElelementsDisaplyed (){
+    public WebDriver areHeaderElelementsDisaplyed (){
         isLinkShippinDisaplyed();
         isLinkTrackingDisaplyed();
         isLinkBusinessSolutionsDisaplyed();
@@ -77,6 +78,6 @@ public class HeaderElements extends CommonActionsWithElements {
         isLinkAboutUPSDisaplyed();
         isLinkLocationDisaplyed();
         logger.info("All Header Elements are displayed");
-        return new HomePage(webDriver);
+        return webDriver;
     }
 }

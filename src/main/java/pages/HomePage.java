@@ -103,4 +103,9 @@ public class HomePage extends ParentPage {
         return this;
     }
 
+    public LocationPage clickOnLocation() {
+        clickOnElement(getHeaderElements().linkLocation);
+        return new LocationPage(webDriver);
+    }
+
 }

@@ -80,7 +80,16 @@ public class CommonActionsWithElements {
             return false;
         }
     }
-
+    protected void enterTextInToElement(WebElement webElement, String text) {
+        try {
+            webDriverWait15.until(ExpectedConditions.visibilityOf(webElement));
+            webElement.clear();
+            webElement.sendKeys(text);
+            logger.info(text + " was inputted into element " + getElementName(webElement));
+        } catch (Exception e) {
+            printErrorAndStopTest(e);
+        }
+    }
 
 
 }
