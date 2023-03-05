@@ -10,8 +10,14 @@ public class HomePage extends ParentPage {
     public HomePage(WebDriver webDriver) {
         super(webDriver);
     }
+
     private HeaderElements headerElements = new HeaderElements(webDriver);
-    public HeaderElements getHeaderElements() {return headerElements;};
+
+    public HeaderElements getHeaderElements() {
+        return headerElements;
+    }
+
+    ;
 
     @FindBy(xpath = ".//a[@class='nav-link active']")
     private WebElement linkTrack;
@@ -34,8 +40,6 @@ public class HomePage extends ParentPage {
     @FindBy(xpath = ".//a[@class = 'widget-footer-link ups-link']")
     private WebElement linkGetHelp;
 
-
-
     public HomePage openHomePage() {
 
         try {
@@ -49,8 +53,54 @@ public class HomePage extends ParentPage {
         return this;
     }
 
+    public HomePage isLinkGetHelpDisaplyed() {
+        Assert.assertTrue(getElementName(linkGetHelp) + " is not disaplyed ", isElementDisplayed(linkGetHelp));
+        return this;
+    }
 
+    public HomePage isSpanLoginSignupDisaplyed() {
+        Assert.assertTrue(getElementName(spanLoginSignup) + " is not disaplyed ", isElementDisplayed(spanLoginSignup));
+        return this;
+    }
 
+    public HomePage isLinkTrackDisaplyed() {
+        Assert.assertTrue(getElementName(linkTrack) + " is not disaplyed ", isElementDisplayed(linkTrack));
+        return this;
+    }
 
+    public HomePage isLinkQuoteDisaplyed() {
+        Assert.assertTrue(getElementName(linkQuote) + " is not disaplyed ", isElementDisplayed(linkQuote));
+        return this;
+    }
+
+    public HomePage isLinkShipDisaplyed() {
+        Assert.assertTrue(getElementName(linkShip) + " is not disaplyed ", isElementDisplayed(linkShip));
+        return this;
+    }
+
+    public HomePage isLinkBillingDisaplyed() {
+        Assert.assertTrue(getElementName(linkBilling) + " is not disaplyed ", isElementDisplayed(linkBilling));
+        return this;
+    }
+
+    public HomePage isInputTrackingNumberDisaplyed() {
+        Assert.assertTrue(getElementName(inputTrackingNumber) + " is not disaplyed ", isElementDisplayed(inputTrackingNumber));
+        return this;
+    }
+
+    public HomePage isButtonTrackDisaplyed() {
+        Assert.assertTrue(getElementName(buttonTrack) + " is not disaplyed ", isElementDisplayed(buttonTrack));
+        return this;
+    }
+
+    public HomePage isButtonHelp() {
+        Assert.assertTrue(getElementName(buttonHelp) + " is not disaplyed ", isElementDisplayed(buttonHelp));
+        return this;
+    }
+
+    public HomePage isButtonSearch() {
+        Assert.assertTrue(getElementName(buttonSearch) + " is not disaplyed ", isElementDisplayed(buttonSearch));
+        return this;
+    }
 
 }

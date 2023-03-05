@@ -6,6 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import pages.CommonActionsWithElements;
+import pages.HomePage;
 
 public class HeaderElements extends CommonActionsWithElements {
     Logger logger = Logger.getLogger(getClass());
@@ -67,7 +68,7 @@ public class HeaderElements extends CommonActionsWithElements {
 
 
 
-    public HeaderElements areHeaderElelementsDisaplyed (){
+    public HomePage areHeaderElelementsDisaplyed (){
         isLinkShippinDisaplyed();
         isLinkTrackingDisaplyed();
         isLinkBusinessSolutionsDisaplyed();
@@ -76,6 +77,6 @@ public class HeaderElements extends CommonActionsWithElements {
         isLinkAboutUPSDisaplyed();
         isLinkLocationDisaplyed();
         logger.info("All Header Elements are displayed");
-        return this;
+        return new HomePage(webDriver);
     }
 }

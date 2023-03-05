@@ -6,6 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import pages.CommonActionsWithElements;
+import pages.HomePage;
 
 public class HeaderElements extends CommonActionsWithElements {
     Logger logger = Logger.getLogger(getClass());
@@ -16,22 +17,16 @@ public class HeaderElements extends CommonActionsWithElements {
 
     @FindBy(xpath = ".//a[@id='mainNavDropdown1']")
     private WebElement linkShipping;
-
     @FindBy(xpath = ".//a[@id='mainNavDropdown2']")
     private WebElement linkTracking;
-
     @FindBy (xpath = ".//a[@id='mainNavDropdown3']")
     private WebElement linkBusinessSolutions;
-
     @FindBy (xpath = ".//a[@id='mainNavDropdown4']")
     private WebElement linkSupport;
-
     @FindBy (xpath = ".//a[@class= 'OneLinkKeepLinks ups-link']")
     private WebElement linkAboutUPS;
-
     @FindBy (xpath = ".//a[@class= 'ups-link' and @href = 'https://www.ups.com/dropoff?loc=en_CA']")
     private WebElement linkLocation;
-
     @FindBy (xpath = ".//a[@class= 'ups-link dropdown-toggle' ]")
     private WebElement linkLanuages;
 
@@ -73,7 +68,7 @@ public class HeaderElements extends CommonActionsWithElements {
 
 
 
-    public HeaderElements areHeaderElelementsDisaplyed (){
+    public HomePage areHeaderElelementsDisaplyed (){
         isLinkShippinDisaplyed();
         isLinkTrackingDisaplyed();
         isLinkBusinessSolutionsDisaplyed();
@@ -82,6 +77,6 @@ public class HeaderElements extends CommonActionsWithElements {
         isLinkAboutUPSDisaplyed();
         isLinkLocationDisaplyed();
         logger.info("All Header Elements are displayed");
-        return this;
+        return new HomePage(webDriver);
     }
 }

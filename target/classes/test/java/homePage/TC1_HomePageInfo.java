@@ -11,12 +11,17 @@ public class TC1_HomePageInfo extends BaseTest {
        homePage
                .openHomePage()
                .getHeaderElements().areHeaderElelementsDisaplyed()
-//               .getHeaderElements().isLinkShippinDisaplyed()
-//               .isLinkTrackingDisaplyed()
-//               .isLinkBusinessSolutionsDisaplyed()
-//               .isLinkSupportDisaplyed().isLinkAboutUPSDisaplyed()
-//               .isLinkLocationDisaplyed()
-//               .isLinkLanuagesDisaplyed()
+               .isButtonHelp()
+               .isButtonSearch()
+               .isLinkGetHelpDisaplyed()
+               .isInputTrackingNumberDisaplyed()
+               .isLinkBillingDisaplyed()
+               .isButtonTrackDisaplyed()
+               .isLinkBillingDisaplyed()
+               .isLinkShipDisaplyed()
+               .isLinkQuoteDisaplyed()
+               .isLinkTrackDisaplyed()
+               .isSpanLoginSignupDisaplyed()
 
                ;
 
