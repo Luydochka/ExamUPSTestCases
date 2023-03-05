@@ -39,18 +39,8 @@ loginPage.input.Password = .//input[@name ='password']
 loginPage.button.LogIn = .//button[@id='submitBtn']
 loginPage.button.Create_a_UpsUsername = .//button[@class='ups-cta ups-cta_tertiary']
 ____________________________________________________________________________________________________________________________________
-#SignUpPage
-
-signUpPage.li.SignUp = .//li[@class='ups-loginsignup ups-firstnav ']
-signUpPage.input.RadioButtonPersonal = .//input[@id='radioPersonal']
-signUpPage.input.FirstAndLasnName = .//input[@id='signUpName']
-signUpPage.input.Email = .//input[@id='signUpEmail']
-signUpPage.input.PhoneNumber = .//input[@id='ups-phone_input']
-signUpPage.input.UserName = .//input[@id='signUpUserId']
-signUpPage.input.Password = .//input[@id='signUpPassword']
-signUpPage.input.SignUpAgreement = .//input[@id='signUpAgreement']
-signUpPage.input.No = .//input[@id='signUpOffersNo']
-signUpPage.button.SignUp = .//button[@class='ups-cta ups-cta_primary']
+#HomePageLoggedIn
+HomePageLoggedIn.button.MyProfile = .//*[@id='dropdownMenuButton']
 
 ______________________________________________________________________________________________________________________________________
 

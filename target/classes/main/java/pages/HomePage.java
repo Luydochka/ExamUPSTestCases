@@ -108,4 +108,9 @@ public class HomePage extends ParentPage {
         return new LocationPage(webDriver);
     }
 
+    public HomePage isMenuItemsDisaplyed (){
+        getHeaderElements().areHeaderElelementsDisaplyed();
+        return this;
+    }
+
 }

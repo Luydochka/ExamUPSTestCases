@@ -429,3 +429,26 @@
 2023-05-03 18:04:37   INFO [pages.LocationPage] : Moncton, Westmorland, NB Element was clicked
 2023-05-03 18:04:37   INFO [pages.LocationPage] : Search Results Element is displayed
 2023-05-03 18:04:38   INFO [homePage.TC2_LocationPage] : Browser was closed
+2023-05-03 18:31:10   INFO [homePage.TC1_HomePageInfo] : -----homePageInfo test is stared ------
+2023-05-03 18:31:22   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 18:31:22   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 18:31:23   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-05-03 18:31:23   INFO [pages.elements.HeaderElements] : Tracking Element is displayed
+2023-05-03 18:31:23   INFO [pages.elements.HeaderElements] : Business Solutions Element is displayed
+2023-05-03 18:31:23   INFO [pages.elements.HeaderElements] : Support Element is displayed
+2023-05-03 18:31:23   INFO [pages.elements.HeaderElements] : Canada - English Element is displayed
+2023-05-03 18:31:23   INFO [pages.elements.HeaderElements] : About UPS Open the link in a new window Element is displayed
+2023-05-03 18:31:23   INFO [pages.elements.HeaderElements] : Locations Element is displayed
+2023-05-03 18:31:23   INFO [pages.elements.HeaderElements] : All Header Elements are displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] :  Element is displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] : Search Element is displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] : Get Help Element is displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] : Tracking Number Element is displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] : Billing Element is displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] : Track  Element is displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] : Billing Element is displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] : Ship Element is displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] : Quote Element is displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] : Track Element is displayed
+2023-05-03 18:31:24   INFO [pages.HomePage] :  Element is displayed
+2023-05-03 18:31:25   INFO [homePage.TC1_HomePageInfo] : Browser was closed

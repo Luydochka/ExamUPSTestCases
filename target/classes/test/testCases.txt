@@ -45,9 +45,9 @@ EX:
 List of locations disaplyed
 __________________________________________________________________________________________________
 
-#3 Sign Up function
+#3 LogIn function
 Summary:
-A User should be able to create account using Sign Up function
+A User should be able to login to his/her account
 
 STR:
 1. Launch UPS Home Page https://www.ups.com/ca/en/Home.page
@@ -59,9 +59,11 @@ EX_1: Log In Page displayed
 4. Create a UPS Username is available
 
 STR:
-3. Hit Create a UPS Username
+3. Enter Valid email (liudmylamuntyan@gmail.com)
+4. Enter valid password (MylaPassword1!)
+5. hit Login
 EX_2
-1. Sign Up button is available
+1. Profile Btn is available
 2. Log In button is not available
 
 STR:

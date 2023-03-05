@@ -10,8 +10,7 @@ public class TC1_HomePageInfo extends BaseTest {
         public void homePageInfo (){
        homePage
                .openHomePage()
-               .getHeaderElements().areHeaderElelementsDisaplyed();
-       homePage
+               .isMenuItemsDisaplyed()
                .isButtonHelp()
                .isButtonSearch()
                .isLinkGetHelpDisaplyed()

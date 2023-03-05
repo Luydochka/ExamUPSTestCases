@@ -5,30 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af7f5b69-2e52-4230-a093-bdad99ee25a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/libs/TestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LocationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homePage/TC2_LocationPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/qalight.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/qalight.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/CommonActionsWithElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/CommonActionsWithElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/elements/HeaderElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/elements/HeaderElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/baseTest/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/baseTest/BaseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/homePage/TC1_HomePageInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homePage/TC1_HomePageInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/locators.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/locators.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/testCases.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/testCases.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/pages/CommonActionsWithElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/pages/CommonActionsWithElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/pages/elements/HeaderElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/pages/elements/HeaderElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/CommonActionsWithElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/CommonActionsWithElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pages/elements/HeaderElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/elements/HeaderElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/java/baseTest/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/java/baseTest/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/java/homePage/TC1_HomePageInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/java/homePage/TC1_HomePageInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/locators.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/locators.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/testCases.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/testCases.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/baseTest/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/baseTest/BaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/homePage/TC1_HomePageInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/homePage/TC1_HomePageInfo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +72,7 @@
       <recent name="C:\QA Light\workSpace\Muntyan_exam-project\Muntyan_exam-project\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TC2_LocationPage">
+  <component name="RunManager" selected="JUnit.TC1_HomePageInfo">
     <configuration name="TC1_HomePageInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Muntyan_exam-project" />
       <extension name="coverage">
@@ -124,8 +105,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TC2_LocationPage" />
         <item itemvalue="JUnit.TC1_HomePageInfo" />
+        <item itemvalue="JUnit.TC2_LocationPage" />
         <item itemvalue="JUnit.TC1_HomePageInfo" />
         <item itemvalue="JUnit.TC2_LocationPage" />
         <item itemvalue="JUnit.TC1_HomePageInfo" />
@@ -176,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677955194531</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="TC2">
+      <created>1678050303129</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678050303129</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,7 +183,8 @@
     <MESSAGE value="Base Test" />
     <MESSAGE value="TC1 start" />
     <MESSAGE value="TC1 HomePage" />
-    <option name="LAST_COMMIT_MESSAGE" value="TC1 HomePage" />
+    <MESSAGE value="TC2" />
+    <option name="LAST_COMMIT_MESSAGE" value="TC2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
