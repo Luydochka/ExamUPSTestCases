@@ -25,7 +25,7 @@ public class BaseTest {
 
     @Before
     public void setUp(){
-        logger.info("-----" + testName.getMethodName() + "is stared ------");
+        logger.info("-----" + testName.getMethodName() + " test is stared ------");
         webDriver = initDriver();
         webDriver.manage().window().maximize();
         webDriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));

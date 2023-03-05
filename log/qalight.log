@@ -291,3 +291,89 @@
 2023-04-03 14:59:54   INFO [pages.HomePage] : Home Page was opened
 2023-04-03 14:59:55   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
 2023-04-03 14:59:56   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 15:02:15   INFO [homePage.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 15:02:25   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-04-03 15:02:25   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 15:02:25   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 15:02:26   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 15:18:33   INFO [homePage.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 15:18:43   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-04-03 15:18:43   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 15:18:43   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 15:18:44   INFO [pages.elements.HeaderElements] : Tracking Element is displayed
+2023-04-03 15:18:44   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 15:25:17   INFO [homePage.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 15:25:27   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-04-03 15:25:27   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 15:25:28   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 15:25:28   INFO [pages.elements.HeaderElements] : Tracking Element is displayed
+2023-04-03 15:25:28   INFO [pages.elements.HeaderElements] : Business Solutions Element is displayed
+2023-04-03 15:25:28   INFO [pages.elements.HeaderElements] : Support Element is displayed
+2023-04-03 15:25:28   INFO [pages.elements.HeaderElements] : Canada - English Element is displayed
+2023-04-03 15:25:28   INFO [pages.elements.HeaderElements] : About UPS Open the link in a new window Element is displayed
+2023-04-03 15:25:28   INFO [pages.elements.HeaderElements] : Locations Element is displayed
+2023-04-03 15:25:29   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-04-03 15:27:04   INFO [homePage.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-04-03 15:27:14   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-04-03 15:27:14   INFO [pages.HomePage] : Home Page was opened
+2023-04-03 15:27:15   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-04-03 15:27:15   INFO [pages.elements.HeaderElements] : Tracking Element is displayed
+2023-04-03 15:27:15   INFO [pages.elements.HeaderElements] : Business Solutions Element is displayed
+2023-04-03 15:27:15   INFO [pages.elements.HeaderElements] : Support Element is displayed
+2023-04-03 15:27:15   INFO [pages.elements.HeaderElements] : Canada - English Element is displayed
+2023-04-03 15:27:15   INFO [pages.elements.HeaderElements] : About UPS Open the link in a new window Element is displayed
+2023-04-03 15:27:15   INFO [pages.elements.HeaderElements] : Locations Element is displayed
+2023-04-03 15:27:15   INFO [pages.elements.HeaderElements] : All Header Elements are displayed
+2023-04-03 15:27:16   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-05-03 16:13:59   INFO [homePage.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-05-03 16:14:11   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 16:14:11   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 16:14:12   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-05-03 16:14:12   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-05-03 16:15:10   INFO [homePage.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-05-03 16:15:20   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 16:15:20   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 16:15:21   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-05-03 16:15:21   INFO [pages.elements.HeaderElements] : Tracking Element is displayed
+2023-05-03 16:15:22   INFO [pages.elements.HeaderElements] : Business Solutions Element is displayed
+2023-05-03 16:15:22   INFO [pages.elements.HeaderElements] : Support Element is displayed
+2023-05-03 16:15:22   INFO [pages.elements.HeaderElements] : Canada - English Element is displayed
+2023-05-03 16:15:22   INFO [pages.elements.HeaderElements] : About UPS Open the link in a new window Element is displayed
+2023-05-03 16:15:22   INFO [pages.elements.HeaderElements] : Locations Element is displayed
+2023-05-03 16:15:22   INFO [pages.elements.HeaderElements] : All Header Elements are displayed
+2023-05-03 16:15:23   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-05-03 16:16:54   INFO [homePage.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-05-03 16:17:06   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 16:17:06   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 16:17:07   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-05-03 16:17:07   INFO [pages.elements.HeaderElements] : Tracking Element is displayed
+2023-05-03 16:17:07   INFO [pages.elements.HeaderElements] : Business Solutions Element is displayed
+2023-05-03 16:17:07   INFO [pages.elements.HeaderElements] : Support Element is displayed
+2023-05-03 16:17:07   INFO [pages.elements.HeaderElements] : Canada - English Element is displayed
+2023-05-03 16:17:08   INFO [pages.elements.HeaderElements] : About UPS Open the link in a new window Element is displayed
+2023-05-03 16:17:08   INFO [pages.elements.HeaderElements] : Locations Element is displayed
+2023-05-03 16:17:08   INFO [pages.elements.HeaderElements] : All Header Elements are displayed
+2023-05-03 16:17:08   INFO [homePage.TC1_HomePageInfo] : Browser was closed
+2023-05-03 16:31:33   INFO [homePage.TC1_HomePageInfo] : -----homePageInfois stared ------
+2023-05-03 16:31:49   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-05-03 16:31:49   INFO [pages.HomePage] : Home Page was opened
+2023-05-03 16:31:49   INFO [pages.elements.HeaderElements] : Shipping Element is displayed
+2023-05-03 16:31:49   INFO [pages.elements.HeaderElements] : Tracking Element is displayed
+2023-05-03 16:31:49   INFO [pages.elements.HeaderElements] : Business Solutions Element is displayed
+2023-05-03 16:31:50   INFO [pages.elements.HeaderElements] : Support Element is displayed
+2023-05-03 16:31:50   INFO [pages.elements.HeaderElements] : Canada - English Element is displayed
+2023-05-03 16:31:50   INFO [pages.elements.HeaderElements] : About UPS Open the link in a new window Element is displayed
+2023-05-03 16:31:50   INFO [pages.elements.HeaderElements] : Locations Element is displayed
+2023-05-03 16:31:50   INFO [pages.elements.HeaderElements] : All Header Elements are displayed
+2023-05-03 16:31:50   INFO [pages.HomePage] :  Element is displayed
+2023-05-03 16:31:50   INFO [pages.HomePage] : Search Element is displayed
+2023-05-03 16:31:50   INFO [pages.HomePage] : Get Help Element is displayed
+2023-05-03 16:31:50   INFO [pages.HomePage] : Tracking Number Element is displayed
+2023-05-03 16:31:50   INFO [pages.HomePage] : Billing Element is displayed
+2023-05-03 16:31:50   INFO [pages.HomePage] : Track  Element is displayed
+2023-05-03 16:31:50   INFO [pages.HomePage] : Billing Element is displayed
+2023-05-03 16:31:50   INFO [pages.HomePage] : Ship Element is displayed
+2023-05-03 16:31:50   INFO [pages.HomePage] : Quote Element is displayed
+2023-05-03 16:31:51   INFO [pages.HomePage] : Track Element is displayed
+2023-05-03 16:31:51   INFO [pages.HomePage] :  Element is displayed
+2023-05-03 16:31:51   INFO [homePage.TC1_HomePageInfo] : Browser was closed
