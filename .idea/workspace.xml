@@ -5,11 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af7f5b69-2e52-4230-a093-bdad99ee25a2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LogInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestCases/TC3_LogIn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/qalight.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/qalight.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libs/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libs/TestData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/homePage/TC1_HomePageInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homePage/TC1_HomePageInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/baseTest/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/baseTest/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/homePage/TC1_HomePageInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCases/TC1_HomePageInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/homePage/TC2_LocationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCases/TC2_LocationPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/locators.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/locators.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/testCases.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/testCases.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/libs/TestData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/libs/TestData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/libs/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/libs/TestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/baseTest/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/java/baseTest/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/homePage/TC1_HomePageInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/homePage/TC2_LocationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/locators.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/locators.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/testCases.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/testCases.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/baseTest/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/baseTest/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/homePage/TC1_HomePageInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/homePage/TC2_LocationPage.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +44,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="05.03" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -72,17 +90,17 @@
       <recent name="C:\QA Light\workSpace\Muntyan_exam-project\Muntyan_exam-project\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TC1_HomePageInfo">
+  <component name="RunManager" selected="JUnit.TC3_LogIn">
     <configuration name="TC1_HomePageInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Muntyan_exam-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homePage.*" />
+          <option name="PATTERN" value="TestCases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="homePage" />
-      <option name="MAIN_CLASS_NAME" value="homePage.TC1_HomePageInfo" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.TC1_HomePageInfo" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,12 +110,27 @@
       <module name="Muntyan_exam-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homePage.*" />
+          <option name="PATTERN" value="TestCases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="homePage" />
-      <option name="MAIN_CLASS_NAME" value="homePage.TC2_LocationPage" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.TC2_LocationPage" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC3_LogIn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Muntyan_exam-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.TC3_LogIn" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TC3_LogIn" />
         <item itemvalue="JUnit.TC1_HomePageInfo" />
         <item itemvalue="JUnit.TC2_LocationPage" />
         <item itemvalue="JUnit.TC1_HomePageInfo" />
         <item itemvalue="JUnit.TC2_LocationPage" />
-        <item itemvalue="JUnit.TC1_HomePageInfo" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678050303129</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="TC2 fixed">
+      <created>1678051978635</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678051978635</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,7 +224,8 @@
     <MESSAGE value="TC1 start" />
     <MESSAGE value="TC1 HomePage" />
     <MESSAGE value="TC2" />
-    <option name="LAST_COMMIT_MESSAGE" value="TC2" />
+    <MESSAGE value="TC2 fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="TC2 fixed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

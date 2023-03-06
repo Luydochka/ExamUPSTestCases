@@ -1,26 +1,27 @@
 #HomePage
 
 ___Header Elements ___
-homePage.link.Shipping = .//a[@id='mainNavDropdown1']
-homePage.link.Tracking = .//a[@id='mainNavDropdown2']
-homePage.link.BusinessSolutions = .//a[@id='mainNavDropdown3']
-homePage.link.Support = .//a[@id='mainNavDropdown4']
-homePage.link.AboutUPS = .//a[@class= 'OneLinkKeepLinks ups-link']
-homePage.link.Location = .//a[@class= 'ups-link' and @href = 'https://www.ups.com/dropoff?loc=en_CA']
-homePage.link.Languages = .//a[@class= 'ups-link dropdown-toggle' ]
+HomePage.link.Shipping = .//a[@id='mainNavDropdown1']
+HomePage.link.Tracking = .//a[@id='mainNavDropdown2']
+HomePage.link.BusinessSolutions = .//a[@id='mainNavDropdown3']
+HomePage.link.Support = .//a[@id='mainNavDropdown4']
+HomePage.link.AboutUPS = .//a[@class= 'OneLinkKeepLinks ups-link']
+HomePage.link.Location = .//a[@class= 'ups-link' and @href = 'https://www.ups.com/dropoff?loc=en_CA']
+HomePage.link.Languages = .//a[@class= 'ups-link dropdown-toggle' ]
 
 ____End of Header Elements_____
 
-homePage.link.Track = .//a[@class='nav-link active']
-homePage.link.Quote = .//a[@class='nav-link ups-analytics ' and @href = 'https://wwwapps.ups.com/calTimeCost?loc=en_CA']
-homePage.link.Ship = .//a[@class='nav-link ups-analytics ' and @href = 'https://www.ups.com/ship?loc=en_CA']
-homePage.link.Billing = .//a[@class='nav-link ups-analytics ' and @href = '/ca/en/business-solutions/ups-billing.page']
-homePage.input.TrackingNumber = .//input[@id = 'ups-track--qs']
-homePage.button.Track = .//button[@id = 'stApp_widgetTrkNumBtn']
-homePage.button.Help = .//span[@id = 'stApp_widgetHelpLbl']
-homePage.button.Search = .//button[@id= 'ups-search-toggle' ]
-homePage.span.LoginSignup = .//span[@class= 'icon ups-icon-user' ]
-homePage.link.GetHelp = .//a[@class = 'widget-footer-link ups-link']
+HomePage.link.Track = .//a[@class='nav-link active']
+HomePage.link.Quote = .//a[@class='nav-link ups-analytics ' and @href = 'https://wwwapps.ups.com/calTimeCost?loc=en_CA']
+HomePage.link.Ship = .//a[@class='nav-link ups-analytics ' and @href = 'https://www.ups.com/ship?loc=en_CA']
+HomePage.link.Billing = .//a[@class='nav-link ups-analytics ' and @href = '/ca/en/business-solutions/ups-billing.page']
+HomePage.input.TrackingNumber = .//input[@id = 'ups-track--qs']
+HomePage.button.Track = .//button[@id = 'stApp_widgetTrkNumBtn']
+HomePage.button.Help = .//span[@id = 'stApp_widgetHelpLbl']
+HomePage.button.Search = .//button[@id= 'ups-search-toggle' ]
+HomePage.span.LoginSignup = .//span[@class= 'icon ups-icon-user' ]
+HomePage.link.GetHelp = .//a[@class = 'widget-footer-link ups-link']
+HomePage.link.LogIn = .//*[@data-utg-link-name='Login']
 __________________________________________________________________________________________________________________________________
 #FindLocationsPage
 
@@ -37,7 +38,7 @@ ________________________________________________________________________________
 loginPage.input.UserName = .//input[@name ='userID']
 loginPage.input.Password = .//input[@name ='password']
 loginPage.button.LogIn = .//button[@id='submitBtn']
-loginPage.button.Create_a_UpsUsername = .//button[@class='ups-cta ups-cta_tertiary']
+
 ____________________________________________________________________________________________________________________________________
 #HomePageLoggedIn
 HomePageLoggedIn.button.MyProfile = .//*[@id='dropdownMenuButton']

@@ -14,6 +14,7 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.safari.SafariDriver;
 import pages.HomePage;
 import pages.LocationPage;
+import pages.LogInPage;
 import pages.elements.HeaderElements;
 
 import java.time.Duration;
@@ -24,6 +25,7 @@ public class BaseTest {
     protected HomePage homePage;
     protected HeaderElements headerElements;
     protected LocationPage locationPage;
+    protected LogInPage logInPage;
 
     @Before
     public void setUp(){
@@ -34,6 +36,8 @@ public class BaseTest {
         homePage = new HomePage(webDriver);
         headerElements = new HeaderElements(webDriver);
         locationPage = new LocationPage(webDriver);
+        logInPage = new LogInPage(webDriver);
+
     }
 
 
