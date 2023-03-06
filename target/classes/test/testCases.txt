@@ -78,22 +78,11 @@ A User should be able to search from a Home Page
 STR:
 1. Launch UPS Home Page https://www.ups.com/ca/en/Home.page
 2. Click on magnifying glass image
+3. Type: 'claim'
+4. Click on Search
 EX_1:
-1. Shipping is not available
-2. Tracking is not available
-3. Business Solution is not available
-4. Support  is not available
-5. Search button is available
-
-STR:
-1. Type: 'claim'
-2. Click on Search
-EX_2:
-1. Track is not available
-2. Quote is not available
-3. Ship is not available
-4. Billing is not available
-5. 'File a Claim | UPS - Canada' is available
+1 Quote is not available
+2. 'File a Claim | UPS - Canada' is available
 
 ___________________________________________________________________________________________________________-
 

@@ -1,5 +1,6 @@
 package pages;
 
+import libs.TestData;
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -7,6 +8,10 @@ import org.openqa.selenium.support.FindBy;
 import pages.elements.HeaderElements;
 
 public class HomePage extends ParentPage {
+
+
+
+
     public HomePage(WebDriver webDriver) {
         super(webDriver);
     }
@@ -18,7 +23,10 @@ public class HomePage extends ParentPage {
     }
 
     ;
-
+    @FindBy(xpath = ".//button[text()= 'Search']")
+    private WebElement buttonSearch;
+    @FindBy(xpath = ".//input[@id = 'ups-mainNav-search']")
+    private WebElement inputSearch;
     @FindBy(xpath = ".//a[@class='nav-link active']")
     private WebElement linkTrack;
     @FindBy(xpath = ".//a[@class='nav-link ups-analytics ' and @href = 'https://wwwapps.ups.com/calTimeCost?loc=en_CA']")
@@ -34,13 +42,14 @@ public class HomePage extends ParentPage {
     @FindBy(xpath = ".//span[@id = 'stApp_widgetHelpLbl']")
     private WebElement buttonHelp;
     @FindBy(xpath = ".//button[@id= 'ups-search-toggle' ]")
-    private WebElement buttonSearch;
+    private WebElement magnifyingGlassIcon;
     @FindBy(xpath = ".//*[@aria-label='Signup']")
     private WebElement linkLogIn;
     @FindBy(xpath = ".//a[@class = 'widget-footer-link ups-link']")
     private WebElement linkGetHelp;
     @FindBy(xpath = ".//*[@id='dropdownMenuButton']")
     private WebElement buttonMyProfile;
+
 
 
     public HomePage openHomePage() {
@@ -102,7 +111,7 @@ public class HomePage extends ParentPage {
     }
 
     public HomePage isButtonSearch() {
-        Assert.assertTrue(getElementName(buttonSearch) + " is not disaplyed ", isElementDisplayed(buttonSearch));
+        Assert.assertTrue(getElementName(magnifyingGlassIcon) + " is not disaplyed ", isElementDisplayed(magnifyingGlassIcon));
         return this;
     }
 
@@ -126,5 +135,20 @@ public class HomePage extends ParentPage {
     public HomePage isMyProfileButtonAvalable() {
         Assert.assertTrue(getElementName(buttonMyProfile) + " is not disaplyed ", isElementDisplayed(buttonMyProfile));
         return this;
+    }
+
+    public HomePage clickOnMagnifyingGlassImage() {
+        clickOnElement(magnifyingGlassIcon);
+            return this;
+    }
+
+    public HomePage enterIntoSearchInput() {
+        enterTextInToElement(inputSearch, TestData.SEARCH_WORD);
+        return this;
+    }
+
+    public SearchPage clickOnSearchButton() {
+        clickOnElement(buttonSearch);
+        return new SearchPage(webDriver);
     }
 }

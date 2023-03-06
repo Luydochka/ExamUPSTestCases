@@ -22,6 +22,7 @@ HomePage.button.Search = .//button[@id= 'ups-search-toggle' ]
 HomePage.span.LoginSignup = .//span[@class= 'icon ups-icon-user' ]
 HomePage.link.GetHelp = .//a[@class = 'widget-footer-link ups-link']
 HomePage.link.LogIn = .//*[@data-utg-link-name='Login']
+searchPage.Input.Search = .//input[@id = 'ups-mainNav-search']
 __________________________________________________________________________________________________________________________________
 #FindLocationsPage
 
@@ -43,15 +44,7 @@ ________________________________________________________________________________
 #HomePageLoggedIn
 HomePageLoggedIn.button.MyProfile = .//*[@id='dropdownMenuButton']
 
-______________________________________________________________________________________________________________________________________
-
-#AddDeliveryAddressPage
-
-
-addDeliveryAddressPage.input.PostalCode = .//input[@id = 'addDeliveryAddress_postcode']
-addDeliveryAddressPage.button.LogOut = .//li[@class= 'ups-account_light ups-firstnav']
-
-________________________________________________________________________________________________________________________________________
+______________________________________
 
 #searchPage
 
