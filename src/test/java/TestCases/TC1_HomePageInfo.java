@@ -1,4 +1,4 @@
-package homePage;
+package TestCases;
 
 import baseTest.BaseTest;
 import org.junit.Test;

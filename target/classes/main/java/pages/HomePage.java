@@ -35,10 +35,13 @@ public class HomePage extends ParentPage {
     private WebElement buttonHelp;
     @FindBy(xpath = ".//button[@id= 'ups-search-toggle' ]")
     private WebElement buttonSearch;
-    @FindBy(xpath = ".//span[@class= 'icon ups-icon-user' ]")
-    private WebElement spanLoginSignup;
+    @FindBy(xpath = ".//*[@aria-label='Signup']")
+    private WebElement linkLogIn;
     @FindBy(xpath = ".//a[@class = 'widget-footer-link ups-link']")
     private WebElement linkGetHelp;
+    @FindBy(xpath = ".//*[@id='dropdownMenuButton']")
+    private WebElement buttonMyProfile;
+
 
     public HomePage openHomePage() {
 
@@ -59,7 +62,7 @@ public class HomePage extends ParentPage {
     }
 
     public HomePage isSpanLoginSignupDisaplyed() {
-        Assert.assertTrue(getElementName(spanLoginSignup) + " is not disaplyed ", isElementDisplayed(spanLoginSignup));
+        Assert.assertTrue(getElementName(linkLogIn) + " is not disaplyed ", isElementDisplayed(linkLogIn));
         return this;
     }
 
@@ -113,4 +116,15 @@ public class HomePage extends ParentPage {
         return this;
     }
 
+
+    public LogInPage clickOnLogIn(){
+        clickOnElement(linkLogIn);
+        return new LogInPage(webDriver);
+    }
+
+
+    public HomePage isMyProfileButtonAvalable() {
+        Assert.assertTrue(getElementName(buttonMyProfile) + " is not disaplyed ", isElementDisplayed(buttonMyProfile));
+        return this;
+    }
 }

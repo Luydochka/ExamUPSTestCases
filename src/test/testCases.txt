@@ -60,24 +60,13 @@ EX_1: Log In Page displayed
 
 STR:
 3. Enter Valid email (liudmylamuntyan@gmail.com)
+
 4. Enter valid password (MylaPassword1!)
 5. hit Login
 EX_2
 1. Profile Btn is available
 2. Log In button is not available
 
-STR:
-4. Select Personal Radio Button
-5. Enter valid email that is not in data base (example@email.com)
-6. Enter valid phone number
-7. Enter valid username (The username must be 1-16 caracters long and must NOT include: space, email address, special characters, URLs)
-8. Enter valid password (it mast be 12-26 characters, include upper and lower letters, one number and one special character)
-9. Select 'I agree to the UPS Technology Agreement'
-10. Select 'No, thank you'
-11. Hit Sign Up
-EX_3 Add Delivery Address Page appears
-1. Postal Code input is available
-2. Log Out button is available
 
 _____________________________________________________________________________________________________________________________________________
 
