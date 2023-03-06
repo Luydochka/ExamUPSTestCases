@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af7f5b69-2e52-4230-a093-bdad99ee25a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/SearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestCases/TC4_Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/libs/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libs/TestData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/locators.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/locators.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/testCases.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/testCases.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -203,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678051978635</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="TC4 done">
+      <created>1678063081854</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678063081854</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,7 +225,8 @@
     <MESSAGE value="TC1 HomePage" />
     <MESSAGE value="TC2" />
     <MESSAGE value="TC2 fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="TC2 fixed" />
+    <MESSAGE value="TC4 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="TC4 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

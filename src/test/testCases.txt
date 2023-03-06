@@ -86,9 +86,9 @@ EX_1:
 
 ___________________________________________________________________________________________________________-
 
-#5 Get help Page
+#5 Get Shipping help  Page
 Summary:
-A User should be able to acess Get Help Page from Home Page
+A User should be able to access Get shipping Help Page from Home Page
 
 STR:
 1. Launch UPS Home Page https://www.ups.com/ca/en/Home.page
@@ -98,5 +98,11 @@ EX:
 1. 'Log in to change' button is available
 2. Sign up now is available
 3. UPS delivery change options link is available
+4. Get Shipping Help is available
+
+STR:
+3. Click on Get Shipping Help
+
+EX: RobotChat Tab Should be available
 
 
