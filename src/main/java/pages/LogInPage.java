@@ -19,6 +19,7 @@ public class LogInPage extends ParentPage{
     private WebElement buttonLogIn;
 
 
+
     public LogInPage enterUserName() {
         enterTextInToElement(inputUserName, TestData.USER_NAME);
         return this;

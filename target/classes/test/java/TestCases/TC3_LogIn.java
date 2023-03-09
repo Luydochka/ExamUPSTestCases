@@ -14,8 +14,7 @@ public class TC3_LogIn extends BaseTest {
                 .enterUserName()
                 .enterPassword()
                 .clickOnLogInButton()
-                .isMyProfileButtonAvalable()
-                .isSpanLoginSignupDisaplyed()
+                .isAccessDeniedMessageDisaplyed()
 
 
                 ;

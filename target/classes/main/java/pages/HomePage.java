@@ -49,14 +49,15 @@ public class HomePage extends ParentPage {
     private WebElement linkGetHelp;
     @FindBy(xpath = ".//*[@id='dropdownMenuButton']")
     private WebElement buttonMyProfile;
-
+    @FindBy(xpath = ".//*[text() = 'Access Denied']")
+    private WebElement messageAccessDenied;
 
 
     public HomePage openHomePage() {
 
         try {
             webDriver.get("https://www.ups.com/");
-            clickOnElement(".//*[text() = 'Canada - English']");
+            clickOnElement(".//*[text() = 'Canada - English']");// винести окремо
             logger.info("Home Page was opened");
         } catch (Exception e) {
             logger.error("Can not open Home Page " + e);
@@ -150,5 +151,10 @@ public class HomePage extends ParentPage {
     public SearchPage clickOnSearchButton() {
         clickOnElement(buttonSearch);
         return new SearchPage(webDriver);
+    }
+
+    public LogInPage isAccessDeniedMessageDisaplyed() {
+        isElementDisplayed(messageAccessDenied);
+        return new LogInPage(webDriver);
     }
 }

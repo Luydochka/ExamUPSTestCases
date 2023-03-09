@@ -504,3 +504,56 @@
 2023-05-03 21:37:07   INFO [pages.SearchPage] : File a Claim | UPS - Canada Element is displayed
 2023-05-03 21:37:17   INFO [pages.SearchPage] : Element is not displayed
 2023-05-03 21:37:18   INFO [TestCases.TC4_Search] : Browser was closed
+2023-07-03 05:50:02   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-07-03 05:50:33   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-07-03 05:50:33   INFO [pages.HomePage] : Home Page was opened
+2023-07-03 05:50:39   INFO [pages.HomePage] : Signup Element was clicked
+2023-07-03 05:50:40   INFO [pages.LogInPage] : liudmylamuntyan was inputted into element Email or Username
+2023-07-03 05:50:41   INFO [pages.LogInPage] : MylaPassword1! was inputted into element Password
+2023-07-03 05:50:42   INFO [pages.LogInPage] : Log In  Element was clicked
+2023-07-03 05:50:52   INFO [pages.HomePage] : Element is not displayed
+2023-07-03 05:50:53   INFO [TestCases.TC3_LogIn] : Browser was closed
+2023-07-03 05:53:43   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-07-03 05:54:13   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-07-03 05:54:13   INFO [pages.HomePage] : Home Page was opened
+2023-07-03 05:54:54   INFO [pages.HomePage] : Signup Element was clicked
+2023-07-03 05:54:55   INFO [pages.LogInPage] : liudmylamuntyan was inputted into element Email or Username
+2023-07-03 05:54:56   INFO [pages.LogInPage] : MylaPassword1! was inputted into element Password
+2023-07-03 05:54:57   INFO [pages.LogInPage] : Log In  Element was clicked
+2023-07-03 05:56:41   INFO [pages.HomePage] : Element is not displayed
+2023-07-03 05:56:46   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-07-03 05:57:10   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-07-03 05:57:10   INFO [pages.HomePage] : Home Page was opened
+2023-07-03 05:57:19   INFO [pages.HomePage] : Signup Element was clicked
+2023-07-03 05:57:20   INFO [pages.LogInPage] : liudmylamuntyan was inputted into element Email or Username
+2023-07-03 05:57:21   INFO [pages.LogInPage] : MylaPassword1! was inputted into element Password
+2023-07-03 05:58:02   INFO [pages.LogInPage] : Log In  Element was clicked
+2023-09-03 14:31:53   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-09-03 14:32:05   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-09-03 14:32:05   INFO [pages.HomePage] : Home Page was opened
+2023-09-03 14:32:07   INFO [pages.HomePage] : Signup Element was clicked
+2023-09-03 14:32:10   INFO [pages.LogInPage] : liudmylamuntyan was inputted into element Email or Username
+2023-09-03 14:32:10   INFO [pages.LogInPage] : Myla was inputted into element Password
+2023-09-03 14:32:11   INFO [pages.LogInPage] : Log In  Element was clicked
+2023-09-03 14:32:21   INFO [pages.HomePage] : Element is not displayed
+2023-09-03 14:32:22   INFO [TestCases.TC3_LogIn] : Browser was closed
+2023-09-03 14:32:52   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-09-03 14:33:02   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-09-03 14:33:02   INFO [pages.HomePage] : Home Page was opened
+2023-09-03 14:33:03   INFO [pages.HomePage] : Signup Element was clicked
+2023-09-03 14:33:06   INFO [pages.LogInPage] : liudmylamuntyan was inputted into element Email or Username
+2023-09-03 14:33:06   INFO [pages.LogInPage] : Myla was inputted into element Password
+2023-09-03 14:33:07   INFO [pages.LogInPage] : Log In  Element was clicked
+2023-09-03 14:33:08   INFO [TestCases.TC3_LogIn] : Browser was closed
+2023-09-03 14:33:17   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-09-03 14:33:26   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-09-03 14:33:26   INFO [pages.HomePage] : Home Page was opened
+2023-09-03 14:46:42   INFO [TestCases.TC3_LogIn] : -----validLogin test is stared ------
+2023-09-03 14:46:50   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-09-03 14:46:50   INFO [pages.HomePage] : Home Page was opened
+2023-09-03 14:46:54   INFO [pages.HomePage] : Signup Element was clicked
+2023-09-03 14:46:54   INFO [pages.LogInPage] : liudmylamuntyan was inputted into element Email or Username
+2023-09-03 14:46:54   INFO [pages.LogInPage] : Myla was inputted into element Password
+2023-09-03 14:46:55   INFO [pages.LogInPage] : Log In  Element was clicked
+2023-09-03 14:46:55   INFO [pages.HomePage] :  Element is displayed
+2023-09-03 14:46:55   INFO [TestCases.TC3_LogIn] : Browser was closed
