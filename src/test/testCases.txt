@@ -45,9 +45,9 @@ EX:
 List of locations disaplyed
 __________________________________________________________________________________________________
 
-#3 LogIn function
+#3 Access Denied Login error.
 Summary:
-A User should be able to login to his/her account
+Whenever someone is trying to Login using 3rd party Automated software, the Access should be denied
 
 STR:
 1. Launch UPS Home Page https://www.ups.com/ca/en/Home.page
@@ -64,8 +64,7 @@ STR:
 4. Enter valid password (MylaPassword1!)
 5. hit Login
 EX_2
-1. Profile Btn is available
-2. Log In button is not available
+1. Access Denied message pops up
 
 
 _____________________________________________________________________________________________________________________________________________

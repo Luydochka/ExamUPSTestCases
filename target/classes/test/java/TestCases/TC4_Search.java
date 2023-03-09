@@ -16,12 +16,6 @@ public class TC4_Search extends BaseTest {
                 .clickOnSearchButton()
                 .isLinkFile_a_ClaimDisplayed()
                 .isLinkQuoteDisaplyed()
-
-
-
-
-
-
         ;
     }
 }
