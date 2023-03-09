@@ -12,9 +12,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.safari.SafariDriver;
-import pages.HomePage;
-import pages.LocationPage;
-import pages.LogInPage;
+import pages.*;
 import pages.elements.HeaderElements;
 
 import java.time.Duration;
@@ -26,6 +24,8 @@ public class BaseTest {
     protected HeaderElements headerElements;
     protected LocationPage locationPage;
     protected LogInPage logInPage;
+    protected GetHelpPage getHelpPage;
+    protected GetShippingHelpPage getShippingHelpPage;
 
     @Before
     public void setUp(){
@@ -37,6 +37,8 @@ public class BaseTest {
         headerElements = new HeaderElements(webDriver);
         locationPage = new LocationPage(webDriver);
         logInPage = new LogInPage(webDriver);
+        getHelpPage = new GetHelpPage(webDriver);
+        getShippingHelpPage = new GetShippingHelpPage(webDriver);
 
     }
 

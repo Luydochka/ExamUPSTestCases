@@ -57,7 +57,12 @@ ________________________________________________________________________________
 #getHelpPage
 
 getHelpPage.link.logInToChange = .//a[@href= 'https://www.ups.com/upsmychoice?loc=en_CA' and @class = 'ups-cta ups-cta-primary ups-analytics']
-getHelpPage.link.UpsDeliveryChangeOptions = .//a[@href= '/ca/en/support/tracking-support/change-delivery-options.page']
+getHelpPage.link.GetShippingHelp = .//*[@title = 'Get Shipping Help']
+
+_______________________________________________________________________________________________--
+
+#GetShippingHelpPage
+getShippingHelpPage.link.VisitTrackingSolutions = .//*[@title = 'Visit Tracking Solutions']
 
 
 

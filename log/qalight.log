@@ -557,3 +557,18 @@
 2023-09-03 14:46:55   INFO [pages.LogInPage] : Log In  Element was clicked
 2023-09-03 14:46:55   INFO [pages.HomePage] :  Element is displayed
 2023-09-03 14:46:55   INFO [TestCases.TC3_LogIn] : Browser was closed
+2023-09-03 15:09:54   INFO [TestCases.TC5_GetShippingHelpPageInfo] : -----ShippingHelpPage test is stared ------
+2023-09-03 15:10:05   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-09-03 15:10:05   INFO [pages.HomePage] : Home Page was opened
+2023-09-03 15:10:07   INFO [pages.HomePage] : Get Help Element was clicked
+2023-09-03 15:10:07   INFO [pages.GetHelpPage] : Element is not displayed
+2023-09-03 15:10:08   INFO [TestCases.TC5_GetShippingHelpPageInfo] : Browser was closed
+2023-09-03 15:41:14   INFO [TestCases.TC5_GetShippingHelpPageInfo] : -----ShippingHelpPage test is stared ------
+2023-09-03 15:41:26   INFO [pages.HomePage] : Canada - English Element was clicked
+2023-09-03 15:41:26   INFO [pages.HomePage] : Home Page was opened
+2023-09-03 15:41:28   INFO [pages.HomePage] : Get Help Element was clicked
+2023-09-03 15:41:29   INFO [pages.GetHelpPage] : Log In To Change Element is displayed
+2023-09-03 15:41:29   INFO [pages.GetHelpPage] : Get Shipping Help Element is displayed
+2023-09-03 15:41:31   INFO [pages.GetHelpPage] : Get Shipping Help Element was clicked
+2023-09-03 15:41:31   INFO [pages.GetShippingHelpPage] : Visit Tracking Solutions Element is displayed
+2023-09-03 15:41:32   INFO [TestCases.TC5_GetShippingHelpPageInfo] : Browser was closed
