@@ -95,13 +95,12 @@ STR:
 
 EX:
 1. 'Log in to change' button is available
-2. Sign up now is available
-3. UPS delivery change options link is available
+
 4. Get Shipping Help is available
 
 STR:
 3. Click on Get Shipping Help
 
-EX: RobotChat Tab Should be available
+EX: Visit Tracking Solutions link Should be available
 
 
